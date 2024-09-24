@@ -1,26 +1,26 @@
 # Computer Language
 
-[HTML](https://shields.io/badge/-HTML-blue?logo=HTML5)
+![HTML](https://shields.io/badge/-HTML-blue?logo=HTML5)
 
-[CSS]()
+![CSS](https://shields.io/badge/-CSS-black?logo=CSS3)
 
-[SQL]()
+![SQL](https://shields.io/badge/-SQL-blue?logo=SQL)
 
 # Programming Language
 
-[JavaScript]()
+![JavaScript](https://shields.io/badge/-JavaScript-white?logo=JavaScript)
 
-[PHP]()
+![PHP](https://shields.io/badge/-PHP-black?logo=PHP)
 
-[Java]()
+![Java](https://shields.io/badge/-Java-red?logo=Java)
 
-[Python]()
+![Python](https://shields.io/badge/-Python-blue?logo=Python)
 
 # Softwares
 
-[Wolfram Mathematica]()
+![Wolfram Mathematica](https://shields.io/badge/-Wolfram_Mathematica-red?logo=Wolfram_Mathematica)
 
-[Q-GIS]()
+![Q-GIS](https://shields.io/badge/-Q_GIS-green?logo=Q_GIS)
 
-[MapInfo]()
+![MapInfo](https://shields.io/badge/-MapInfo-purple?logo=MapInfo)
 
