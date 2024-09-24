@@ -4,7 +4,7 @@
 
 # Programming Languages
 
-![JavaScript](https://shields.io/badge/-JavaScript-white?logo=JavaScript) ![PHP](https://shields.io/badge/-PHP-black?logo=PHP) ![Java](https://shields.io/badge/-Java-red?logo=Java) ![Python](https://shields.io/badge/-Python-green?logo=Python)
+![JavaScript](https://shields.io/badge/-JavaScript-blue?logo=JavaScript) ![PHP](https://shields.io/badge/-PHP-black?logo=PHP) ![Java](https://shields.io/badge/-Java-red?logo=Java) ![Python](https://shields.io/badge/-Python-green?logo=Python)
 
 # Softwares
 
