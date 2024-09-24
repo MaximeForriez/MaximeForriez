@@ -1,20 +1,10 @@
-# Computer Language
+# Computer Languages
 
-![HTML](https://shields.io/badge/-HTML-blue?logo=HTML5)
+![HTML](https://shields.io/badge/-HTML-blue?logo=HTML5) ![CSS](https://shields.io/badge/-CSS-black?logo=CSS3) ![SQL](https://shields.io/badge/-SQL-blue?logo=SQL) ![JSON](https://shields.io/badge/-JSON-yellow?logo=JSON)
 
-![CSS](https://shields.io/badge/-CSS-black?logo=CSS3)
+# Programming Languages
 
-![SQL](https://shields.io/badge/-SQL-blue?logo=SQL)
-
-# Programming Language
-
-![JavaScript](https://shields.io/badge/-JavaScript-white?logo=JavaScript)
-
-![PHP](https://shields.io/badge/-PHP-black?logo=PHP)
-
-![Java](https://shields.io/badge/-Java-red?logo=Java)
-
-![Python](https://shields.io/badge/-Python-blue?logo=Python)
+![JavaScript](https://shields.io/badge/-JavaScript-white?logo=JavaScript) ![PHP](https://shields.io/badge/-PHP-black?logo=PHP) ![Java](https://shields.io/badge/-Java-red?logo=Java) ![Python](https://shields.io/badge/-Python-blue?logo=Python)
 
 # Softwares
 
