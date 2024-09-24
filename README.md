@@ -1,6 +1,6 @@
 # Computer Languages
 
-![HTML](https://shields.io/badge/-HTML-blue?logo=HTML5) ![CSS](https://shields.io/badge/-CSS-black?logo=CSS3) ![SQL](https://shields.io/badge/-SQL-blue?logo=SQL) ![JSON](https://shields.io/badge/-JSON-yellow?logo=JSON)
+![HTML](https://shields.io/badge/-HTML-yellow?logo=HTML5) ![CSS](https://shields.io/badge/-CSS-black?logo=CSS3) ![SQL](https://shields.io/badge/-SQL-blue?logo=SQL) ![JSON](https://shields.io/badge/-JSON-yellow?logo=JSON)
 
 # Programming Languages
 
