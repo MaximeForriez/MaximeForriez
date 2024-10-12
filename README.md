@@ -1,3 +1,13 @@
+Poste actuel : Maître de conférences en géographie / Lecturer in geography
+
+Spécialités :
+
+- Analyse de données
+
+- Géomatique / Systèmes d'information géographique / Cartographie assistée par ordinateur / Analyse spatiale
+
+- Géographie théorique / Notion d'échelle
+
 # Computer Languages
 
 ![HTML](https://shields.io/badge/-HTML-yellow?logo=HTML5) ![CSS](https://shields.io/badge/-CSS-black?logo=CSS3) ![SQL](https://shields.io/badge/-SQL-blue?logo=SQL) ![JSON](https://shields.io/badge/-JSON-yellow?logo=JSON)
