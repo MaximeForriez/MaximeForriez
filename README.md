@@ -1,6 +1,6 @@
-Poste actuel : Maître de conférences en géographie / Lecturer in geography
+**Poste actuel :** Maître de conférences en géographie / Lecturer in geography
 
-Spécialités :
+**Spécialités :**
 
 - Analyse de données
 
