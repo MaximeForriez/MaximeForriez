@@ -1,12 +1,12 @@
-**Poste actuel :** Maître de conférences en géographie / Lecturer in geography
+**Poste actuel / Current Position :** Maître de conférences en géographie / Lecturer in Geography
 
-**Spécialités :**
+**Spécialités / Specialities :**
 
-- Analyse de données
+- Analyse de données / Data Analysis
 
-- Géomatique / Systèmes d'information géographique / Cartographie assistée par ordinateur / Analyse spatiale
+- Géomatique / Systèmes d'information géographique (S.I.G.) / Cartographie assistée par ordinateur (C.A.O.) / Analyse spatiale // Geomatic / Geographica Information System (GIS) / Computer-Assisted Cartography (CAC) / Spatial Analysis
 
-- Géographie théorique / Notion d'échelle
+- Géographie théorique / Notion d'échelle // Theoretical Geography / Notion of Scale
 
 # Computer Languages
 
