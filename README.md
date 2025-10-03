@@ -1,5 +1,17 @@
 **Poste actuel / Current Position :** Maître de conférences en géographie / Lecturer in Geography
 
+**Contacts professionnels / Professional Emails**
+
+- [maxime.forriez@sorbonne-universite.fr](maxime.forriez@sorbonne-universite.fr)
+
+> [!WARNING]
+> Cette adresse ne fonctionne plus très bien à la suite d'une cyberattaque sur les serveurs de Sorbonne Université.
+> This email does not work very well due to cyberattacks in the Sorbonne Université servers.
+
+- [mforriez.sorbonne.universite@gmail.com](mforriez.sorbonne.universite@gmail.com) : adresse alternative si la première ne fonctionne pas.
+
+- Si les deux adresses ont un problème, vous pouvez me contacter par mon site internet : [https://louez-mon-cerveau.com/public/contact.php](https://louez-mon-cerveau.com/public/contact.php). / If both emails have a problem, you can contact me with my internet site: [https://louez-mon-cerveau.com/public/contact.php](https://louez-mon-cerveau.com/public/contact.php).
+
 **Spécialités / Specialities :**
 
 - Analyse de données / Data Analysis
